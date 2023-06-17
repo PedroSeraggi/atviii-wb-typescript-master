@@ -2,6 +2,7 @@
 Lista 3 
 
 1 - Pedro Fernandes Seraggi
+ <br>
 2 - João Pedro Lopes Rezende
 
 
